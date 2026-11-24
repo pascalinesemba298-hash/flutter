@@ -49,6 +49,9 @@ Authentification locale sans backend.
 
 ![Contact](screenshots/04-contact.png)
 
+## Démonstration vidéo
+https://github.com/user-attachments/assets/88ee49cb-3611-4e48-993f-f70ae253f90e
+
 ## Installation
 
 Exécuter les commandes suivantes :
